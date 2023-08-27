@@ -5,19 +5,19 @@ class SalonLepote {
     public $salon_lepote_id = 0;
     public $salon_lepote_naziv = '';
 
-    public function getsalon_lepote_id() {
+    public function getSalon_lepote_id() {
         return $this->salon_lepote_id;
     }
 
-    public function getsalon_lepote_naziv() {
+    public function getSalon_lepote_naziv() {
         return $this->salon_lepote_naziv;
     }
 
-    public function setsalon_lepote_id($salon_lepote_id) {
+    public function setSalon_lepote_id($salon_lepote_id) {
         $this->salon_lepote_id = $salon_lepote_id;
     }
 
-    public function setsalon_lepote_naziv($salon_lepote_naziv) {
+    public function setSalon_lepote_naziv($salon_lepote_naziv) {
         $this->salon_lepote_naziv = $salon_lepote_naziv;
     }
 
