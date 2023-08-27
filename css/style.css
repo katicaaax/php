@@ -56,8 +56,8 @@ body a {
 }
 
 .menu li a:hover {
-	color: #e8cce8;
-	background: rgba(8, 0, 0, 0.548);
+	color: #e88ce8;
+	background: rgba(226, 154, 203, 0.548);
 }
 .toggleMenu {
 	display: none;
